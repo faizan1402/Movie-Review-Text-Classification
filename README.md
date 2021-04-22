@@ -8,6 +8,7 @@
 ![movie_review5](https://user-images.githubusercontent.com/44410930/115691062-5195aa80-a37b-11eb-8beb-af55f40bfdec.PNG)
 ![movie_review6](https://user-images.githubusercontent.com/44410930/115691342-97527300-a37b-11eb-932c-ed38ea37773e.PNG)
 ![movie_review7](https://user-images.githubusercontent.com/44410930/115691718-eef0de80-a37b-11eb-89fb-7bfbbd37784e.PNG)
+![movie_review8](https://user-images.githubusercontent.com/44410930/115692071-455e1d00-a37c-11eb-949e-28619fe0d57b.PNG)
 
 
 
