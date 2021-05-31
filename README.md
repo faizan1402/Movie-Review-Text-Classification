@@ -1,4 +1,12 @@
 # Movie-Review-Text-Classification
+# What are features in text classification?
+When building machine learning model for text classification, there are a lot of features. Because the features are made from words, broader context of the corpus, higher
+dimensional for features. It happens when i build machine learning for news classification, sentiment analysis, web page classification, and so on.
+# Which model is best for text classification?
+Linear Support Vector Machine is widely regarded as one of the best text classification algorithms. We achieve a higher accuracy score of 79% which is 5% improvement over Naive Bayes.
+# What is classification text example?
+Some examples of text classification are: Understanding audience sentiment from social media, Detection of spam and non-spam emails, Auto tagging of customer queries, and
+
 ![movie_review1](https://user-images.githubusercontent.com/44410930/115689684-f31bfc80-a379-11eb-8e44-5ad206a6222e.PNG)
 
 ![movie_review2](https://user-images.githubusercontent.com/44410930/115690328-93722100-a37a-11eb-9862-cedeacc6f470.PNG)
